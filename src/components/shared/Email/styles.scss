@@ -1,0 +1,8 @@
+.email{
+  text-decoration: none;
+  color: rgb(128, 35, 128);
+  font-weight: bold;
+  &:hover{
+    color: rgb(53, 53, 172);
+  }
+}
