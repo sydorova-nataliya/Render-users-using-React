@@ -1,0 +1,11 @@
+.Users{
+    padding: 0 30px;
+    display: grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 30px 30px;
+    &__title{
+        margin: 0px;
+        text-align: center;
+    }
+
+}
